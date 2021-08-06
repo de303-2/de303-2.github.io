@@ -1,3 +1,5 @@
+//5753E2
+
 j2 = [[{"name": "Sleeping", "value": 8.5, "colorIndex": 0}, {"name": "Personal Care", "value": 0.8, "colorIndex": 1}, {"name": "Household Work", "value": 0.7, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.06, "colorIndex": 3}, {"name": "Work", "value": 5.18, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.83, "colorIndex": 6}, {"name": "Leisure", "value": 2.75, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.13, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.54, "colorIndex": 0}, {"name": "Personal Care", "value": 0.62, "colorIndex": 1}, {"name": "Household Work", "value": 1.24, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.82, "colorIndex": 3}, {"name": "Work", "value": 6.15, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.73, "colorIndex": 6}, {"name": "Leisure", "value": 2.08, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.26, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.44, "colorIndex": 0}, {"name": "Personal Care", "value": 0.84, "colorIndex": 1}, {"name": "Household Work", "value": 1.38, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 6.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.67, "colorIndex": 6}, {"name": "Leisure", "value": 2.91, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.2, "colorIndex": 8}], [{"name": "Sleeping", "value": 7.62, "colorIndex": 0}, {"name": "Personal Care", "value": 1.0, "colorIndex": 1}, {"name": "Household Work", "value": 1.98, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 4.42, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.23, "colorIndex": 6}, {"name": "Leisure", "value": 3.51, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.99, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.17, "colorIndex": 0}, {"name": "Personal Care", "value": 0.75, "colorIndex": 1}, {"name": "Household Work", "value": 0.91, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.33, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 1.62, "colorIndex": 5}, {"name": "Eating", "value": 0.7, "colorIndex": 6}, {"name": "Leisure", "value": 4.07, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.76, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.62, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 3.48, "colorIndex": 2}, {"name": "Caring for Others", "value": 2.48, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.63, "colorIndex": 6}, {"name": "Leisure", "value": 3.75, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.96, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.5, "colorIndex": 0}, {"name": "Personal Care", "value": 1.0, "colorIndex": 1}, {"name": "Household Work", "value": 3.05, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.94, "colorIndex": 6}, {"name": "Leisure", "value": 6.33, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.89, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.54, "colorIndex": 0}, {"name": "Personal Care", "value": 1.01, "colorIndex": 1}, {"name": "Household Work", "value": 2.94, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.04, "colorIndex": 6}, {"name": "Leisure", "value": 6.72, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.63, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.17, "colorIndex": 0}, {"name": "Personal Care", "value": 0.59, "colorIndex": 1}, {"name": "Household Work", "value": 1.3, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.5, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 1.0, "colorIndex": 5}, {"name": "Eating", "value": 0.54, "colorIndex": 6}, {"name": "Leisure", "value": 4.42, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.16, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.25, "colorIndex": 0}, {"name": "Personal Care", "value": 0.63, "colorIndex": 1}, {"name": "Household Work", "value": 2.36, "colorIndex": 2}, {"name": "Caring for Others", "value": 1.72, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.89, "colorIndex": 6}, {"name": "Leisure", "value": 3.9, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.31, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.5, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 4.41, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.42, "colorIndex": 6}, {"name": "Leisure", "value": 4.72, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.09, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.42, "colorIndex": 0}, {"name": "Personal Care", "value": 0.58, "colorIndex": 1}, {"name": "Household Work", "value": 3.49, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.08, "colorIndex": 6}, {"name": "Leisure", "value": 4.57, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.03, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.71, "colorIndex": 0}, {"name": "Personal Care", "value": 0.82, "colorIndex": 1}, {"name": "Household Work", "value": 0.53, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 1.09, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.92, "colorIndex": 6}, {"name": "Leisure", "value": 3.74, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.33, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.5, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 1.68, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.39, "colorIndex": 3}, {"name": "Work", "value": 0.21, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.92, "colorIndex": 6}, {"name": "Leisure", "value": 4.1, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.12, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.29, "colorIndex": 0}, {"name": "Personal Care", "value": 0.92, "colorIndex": 1}, {"name": "Household Work", "value": 2.74, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.74, "colorIndex": 6}, {"name": "Leisure", "value": 4.26, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.2, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.54, "colorIndex": 0}, {"name": "Personal Care", "value": 0.59, "colorIndex": 1}, {"name": "Household Work", "value": 2.5, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.17, "colorIndex": 6}, {"name": "Leisure", "value": 5.6, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.8, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.29, "colorIndex": 0}, {"name": "Personal Care", "value": 0.75, "colorIndex": 1}, {"name": "Household Work", "value": 1.65, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.33, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.33, "colorIndex": 6}, {"name": "Leisure", "value": 4.68, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.11, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.42, "colorIndex": 1}, {"name": "Household Work", "value": 2.21, "colorIndex": 2}, {"name": "Caring for Others", "value": 1.96, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.91, "colorIndex": 6}, {"name": "Leisure", "value": 4.55, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.85, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.98, "colorIndex": 0}, {"name": "Personal Care", "value": 0.93, "colorIndex": 1}, {"name": "Household Work", "value": 3.22, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.95, "colorIndex": 6}, {"name": "Leisure", "value": 5.75, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.6, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.79, "colorIndex": 0}, {"name": "Personal Care", "value": 1.0, "colorIndex": 1}, {"name": "Household Work", "value": 1.92, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.17, "colorIndex": 6}, {"name": "Leisure", "value": 8.07, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.57, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 1.1, "colorIndex": 1}, {"name": "Household Work", "value": 1.0, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.05, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.0, "colorIndex": 6}, {"name": "Leisure", "value": 5.98, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.08, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.0, "colorIndex": 0}, {"name": "Personal Care", "value": 1.0, "colorIndex": 1}, {"name": "Household Work", "value": 2.46, "colorIndex": 2}, {"name": "Caring for Others", "value": 1.12, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.0, "colorIndex": 6}, {"name": "Leisure", "value": 3.83, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.68, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.67, "colorIndex": 1}, {"name": "Household Work", "value": 3.29, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.17, "colorIndex": 6}, {"name": "Leisure", "value": 5.76, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.68, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.5, "colorIndex": 0}, {"name": "Personal Care", "value": 0.58, "colorIndex": 1}, {"name": "Household Work", "value": 1.58, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.42, "colorIndex": 6}, {"name": "Leisure", "value": 5.92, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.92, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.21, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 0.29, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 5.91, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.67, "colorIndex": 6}, {"name": "Leisure", "value": 2.63, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.12, "colorIndex": 8}], [{"name": "Sleeping", "value": 7.96, "colorIndex": 0}, {"name": "Personal Care", "value": 0.57, "colorIndex": 1}, {"name": "Household Work", "value": 0.54, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.12, "colorIndex": 3}, {"name": "Work", "value": 7.92, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.96, "colorIndex": 6}, {"name": "Leisure", "value": 2.38, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.12, "colorIndex": 8}], [{"name": "Sleeping", "value": 7.58, "colorIndex": 0}, {"name": "Personal Care", "value": 0.58, "colorIndex": 1}, {"name": "Household Work", "value": 0.59, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 7.46, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.8, "colorIndex": 6}, {"name": "Leisure", "value": 3.61, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.51, "colorIndex": 8}], [{"name": "Sleeping", "value": 7.5, "colorIndex": 0}, {"name": "Personal Care", "value": 0.62, "colorIndex": 1}, {"name": "Household Work", "value": 0.79, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 6.5, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.16, "colorIndex": 6}, {"name": "Leisure", "value": 3.68, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.0, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 0.5, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 2.92, "colorIndex": 5}, {"name": "Eating", "value": 0.83, "colorIndex": 6}, {"name": "Leisure", "value": 4.71, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.98, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.81, "colorIndex": 0}, {"name": "Personal Care", "value": 0.78, "colorIndex": 1}, {"name": "Household Work", "value": 0.48, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.21, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.6, "colorIndex": 6}, {"name": "Leisure", "value": 5.1, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.63, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.07, "colorIndex": 0}, {"name": "Personal Care", "value": 0.54, "colorIndex": 1}, {"name": "Household Work", "value": 2.21, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.98, "colorIndex": 6}, {"name": "Leisure", "value": 7.88, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.55, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.42, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 1.97, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.0, "colorIndex": 6}, {"name": "Leisure", "value": 8.29, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.72, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.25, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 1.25, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.0, "colorIndex": 6}, {"name": "Leisure", "value": 7.59, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.58, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.33, "colorIndex": 1}, {"name": "Household Work", "value": 2.08, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.02, "colorIndex": 3}, {"name": "Work", "value": 0.17, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.04, "colorIndex": 6}, {"name": "Leisure", "value": 5.49, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.63, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.56, "colorIndex": 1}, {"name": "Household Work", "value": 2.03, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.08, "colorIndex": 3}, {"name": "Work", "value": 0.11, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.76, "colorIndex": 6}, {"name": "Leisure", "value": 6.14, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.42, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.83, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 0.55, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.21, "colorIndex": 6}, {"name": "Leisure", "value": 6.21, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.19, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 0.42, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 1.58, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.83, "colorIndex": 6}, {"name": "Leisure", "value": 5.24, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.12, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.33, "colorIndex": 1}, {"name": "Household Work", "value": 1.5, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.08, "colorIndex": 3}, {"name": "Work", "value": 0.52, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.82, "colorIndex": 6}, {"name": "Leisure", "value": 5.75, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.04, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.78, "colorIndex": 0}, {"name": "Personal Care", "value": 0.33, "colorIndex": 1}, {"name": "Household Work", "value": 2.53, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.83, "colorIndex": 6}, {"name": "Leisure", "value": 5.08, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.25, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.37, "colorIndex": 1}, {"name": "Household Work", "value": 1.32, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.38, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.25, "colorIndex": 6}, {"name": "Leisure", "value": 5.92, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.85, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 0.17, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.08, "colorIndex": 6}, {"name": "Leisure", "value": 8.24, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.98, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.5, "colorIndex": 1}, {"name": "Household Work", "value": 0.99, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.83, "colorIndex": 6}, {"name": "Leisure", "value": 7.51, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.84, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.58, "colorIndex": 1}, {"name": "Household Work", "value": 1.65, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.78, "colorIndex": 6}, {"name": "Leisure", "value": 8.09, "colorIndex": 7}, {"name": "Travel or Commute", "value": 1.1, "colorIndex": 8}], [{"name": "Sleeping", "value": 9.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.46, "colorIndex": 1}, {"name": "Household Work", "value": 1.32, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.0, "colorIndex": 6}, {"name": "Leisure", "value": 8.18, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.75, "colorIndex": 8}], [{"name": "Sleeping", "value": 7.4, "colorIndex": 0}, {"name": "Personal Care", "value": 0.67, "colorIndex": 1}, {"name": "Household Work", "value": 1.08, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.5, "colorIndex": 6}, {"name": "Leisure", "value": 8.17, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.65, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.39, "colorIndex": 0}, {"name": "Personal Care", "value": 0.08, "colorIndex": 1}, {"name": "Household Work", "value": 1.67, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.17, "colorIndex": 3}, {"name": "Work", "value": 0.17, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 0.58, "colorIndex": 6}, {"name": "Leisure", "value": 5.68, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.96, "colorIndex": 8}], [{"name": "Sleeping", "value": 10.0, "colorIndex": 0}, {"name": "Personal Care", "value": 0.38, "colorIndex": 1}, {"name": "Household Work", "value": 1.42, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.0, "colorIndex": 6}, {"name": "Leisure", "value": 6.28, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.99, "colorIndex": 8}], [{"name": "Sleeping", "value": 8.57, "colorIndex": 0}, {"name": "Personal Care", "value": 0.57, "colorIndex": 1}, {"name": "Household Work", "value": 5.03, "colorIndex": 2}, {"name": "Caring for Others", "value": 0.0, "colorIndex": 3}, {"name": "Work", "value": 0.0, "colorIndex": 4}, {"name": "Education", "value": 0.0, "colorIndex": 5}, {"name": "Eating", "value": 1.17, "colorIndex": 6}, {"name": "Leisure", "value": 5.78, "colorIndex": 7}, {"name": "Travel or Commute", "value": 0.92, "colorIndex": 8}]]
 
 j3 = ["fde18","fde25","fde45","fde65","fdn18","fdn25","fdn45","fdn65","fdu18","fdu25","fdu45","fdu65","fee18","fee25","fee45","fee65","fen18","fen25","fen45","fen65","feu18","feu25","feu45","feu65","mde18","mde25","mde45","mde65","mdn18","mdn25","mdn45","mdn65","mdu18","mdu25","mdu45","mdu65","mee18","mee25","mee45","mee65","men18","men25","men45","men65","meu18","meu25","meu45","meu65"];
@@ -75,8 +77,8 @@ function getTextColor(bgColor) {
 
 var colors = d3.scaleQuantize()
     .domain([0,8])
-    .range(["#4e79a7","#59a14f","#9c755f","#ff9da7","#e15759","#76b7b2","#f28e2c","#edc949","#af7aa1"]);
-    
+    .range(["#3d70a6","#4aa13f","#9c6b4f","#ff8591","#e04144","#63b8b1","#f28313","#edc432","#b06a9d"]);
+
     //sleep pc hw co w e eating lei trave
   //  ["#4e79a7","#f28e2c","#e15759","#76b7b2","#59a14f","#edc949","#af7aa1","#ff9da7","#9c755f","#bab0ab"]
 // This updates the attributes of an SVG rect element
@@ -104,10 +106,11 @@ function updateText(text) {
     })
 
     .text(d => d.score)
-    .style("font-size","10pt")
-    .style('fill','#999999')
+    .style("font-size","9pt")
+    .style("font-weight","600")
+      .style('fill','#cfcfcf')
     .attr("transform",function(d) {
-      return "translate("+(-usableHeight+11) +" " + ((d.score*-97.5)+(usableHeight)) +") rotate(-90)";
+      return "translate("+(-usableHeight+11) +" " + ((d.score*-106)+(usableHeight)) +") rotate(-90)";
     });
  // just below top
 }
@@ -135,12 +138,13 @@ function updateText2(text) {
       const barColor = colorScale(d.colorIndex);
       return "black";
     })
-.style("font-size","10pt")
-  .style('fill','#999999')
+.style("font-size","9pt")
+.style("font-weight","600")
+  .style('fill','#cfcfcf')
     .text(d => d.score)
 
     .attr("transform",function(d) {
-        return "translate("+(-usableHeight+11) +" " + ((d.score*-97.5)+(usableHeight)) +") rotate(-90)";
+        return "translate("+(-usableHeight+11) +" " + ((d.score*-106)+(usableHeight)) +") rotate(-90)";
     });
  // just below top
 }
@@ -298,7 +302,7 @@ function updateData(item) {
   // The d3.max function computes the largest data value in a given array
   // where values are computed by the 2nd argument function.
   const max = d3.max(newdata, d => d.score);
-  yScale = d3.scaleLinear().domain([0, 12]).range([usableHeight, 0]);
+  yScale = d3.scaleLinear().domain([0, 11]).range([usableHeight, 0]);
 
   // Create a D3 selection object that represents the svg element
   // and set the size of the svg element.
@@ -363,7 +367,7 @@ function updateData(item) {
   updateText(groups.select('text'));
 
   updateXAxis(svg, newdata);
-  updateYAxis(svg, newdata, 12);
+  updateYAxis(svg, newdata, );
 
 }
 
@@ -397,7 +401,7 @@ function updateData2() {
   // The d3.max function computes the largest data value in a given array
   // where values are computed by the 2nd argument function.
   const max = d3.max(newdata, d => d.score);
-  yScale = d3.scaleLinear().domain([0, 12]).range([usableHeight, 0]);
+  yScale = d3.scaleLinear().domain([0, 11]).range([usableHeight, 0]);
 
   // Create a D3 selection object that represents the svg element
   // and set the size of the svg element.
@@ -462,7 +466,7 @@ function updateData2() {
   updateText2(groups.select('text'));
 
   updateXAxis2(svg, newdata);
-  updateYAxis2(svg, newdata, 12);
+  updateYAxis2(svg, newdata, 11);
 
 }
 
@@ -479,22 +483,24 @@ console.log($(item).attr("en"));
 if(item.id=="gm" && $(item).attr("en")=="f"){
   $("#gf").attr("en","f");
   $("#gf").css("background-color","transparent");
-  $("#gf").css("border","0.1em solid #AFAFAF");
+  $("#gf").css("color","000000");
+
 
   $("#gm").attr("en","t");
-  $("#gm").css("background-color","ffffff");
-  $("#gm").css("border","0.1em solid #56CCF2");
+  $("#gm").css("background-color","EB4C8C");
+  $("#gm").css("color","ffffff");
+
 
 }
 else if(item.id=="gf" && $(item).attr("en")=="f"){
   $("#gm").attr("en","f");
-  $("#gm").css("border","0.1em solid #AFAFAF");
+  $("#gm").css("color","000000");
   $("#gm").css("background-color","transparent");
 
   $("#gf").attr("en","t");
-  $("#gf").css("border","0.1em solid #56CCF2");
-  $("#gf").css("background-color","ffffff");
 
+  $("#gf").css("background-color","EB4C8C");
+  $("#gf").css("color","ffffff");
 }
 
 
@@ -502,131 +508,131 @@ else if(item.id=="gf" && $(item).attr("en")=="f"){
 
 if(item.id=="a18" && $(item).attr("en")=="f"){
   $("#a25").attr("en","f");
-$("#a25").css("border","0.1em solid #AFAFAF");
+  $("#a25").css("color","000000");
   $("#a25").css("background-color","transparent");
   $("#a45").attr("en","f");
-$("#a45").css("border","0.1em solid #AFAFAF");
+  $("#a45").css("color","000000");
   $("#a45").css("background-color","transparent");
   $("#a65").attr("en","f");
-$("#a65").css("border","0.1em solid #AFAFAF");
+  $("#a65").css("color","000000");
   $("#a65").css("background-color","transparent");
 
   $("#a18").attr("en","t");
-  $("#a18").css("border","0.1em solid #56CCF2");
-  $("#a18").css("background-color","ffffff");
 
+  $("#a18").css("background-color","EB4C8C");
+  $("#a18").css("color","ffffff");
 }
 else if(item.id=="a25" && $(item).attr("en")=="f"){
   $("#a18").attr("en","f");
-$("#a18").css("border","0.1em solid #AFAFAF");
+  $("#a18").css("color","000000");
   $("#a18").css("background-color","transparent");
   $("#a45").attr("en","f");
-$("#a45").css("border","0.1em solid #AFAFAF");
+  $("#a45").css("color","000000");
   $("#a45").css("background-color","transparent");
   $("#a65").attr("en","f");
-$("#a65").css("border","0.1em solid #AFAFAF");
+  $("#a65").css("color","000000");
   $("#a65").css("background-color","transparent");
 
   $("#a25").attr("en","t");
-  $("#a25").css("border","0.1em solid #56CCF2");
-  $("#a25").css("background-color","ffffff");
 
+  $("#a25").css("background-color","EB4C8C");
+  $("#a25").css("color","ffffff");
 }
 
 else if(item.id=="a45" && $(item).attr("en")=="f"){
   $("#a25").attr("en","f");
-$("#a25").css("border","0.1em solid #AFAFAF");
+  $("#a25").css("color","000000");
   $("#a25").css("background-color","transparent");
   $("#a18").attr("en","f");
-$("#a18").css("border","0.1em solid #AFAFAF");
+  $("#a18").css("color","000000");
   $("#a18").css("background-color","transparent");
   $("#a65").attr("en","f");
-$("#a65").css("border","0.1em solid #AFAFAF");
+  $("#a65").css("color","000000");
   $("#a65").css("background-color","transparent");
 
   $("#a45").attr("en","t");
-  $("#a45").css("border","0.1em solid #56CCF2");
-  $("#a45").css("background-color","ffffff");
 
+  $("#a45").css("background-color","EB4C8C");
+  $("#a45").css("color","ffffff");
 }
 
 else if(item.id=="a65" && $(item).attr("en")=="f"){
   $("#a25").attr("en","f");
-$("#a25").css("border","0.1em solid #AFAFAF");
+  $("#a25").css("color","000000");
   $("#a25").css("background-color","transparent");
   $("#a45").attr("en","f");
-$("#a45").css("border","0.1em solid #AFAFAF");
+  $("#a45").css("color","000000");
   $("#a45").css("background-color","transparent");
   $("#a18").attr("en","f");
-$("#a18").css("border","0.1em solid #AFAFAF");
+  $("#a18").css("color","000000");
   $("#a18").css("background-color","transparent");
 
   $("#a65").attr("en","t");
-  $("#a65").css("border","0.1em solid #56CCF2");
-  $("#a65").css("background-color","ffffff");
 
+  $("#a65").css("background-color","EB4C8C");
+  $("#a65").css("color","ffffff");
 }
 
 
 if(item.id=="ee" && $(item).attr("en")=="f"){
   $("#eu").attr("en","f");
-$("#eu").css("border","0.1em solid #AFAFAF");
+  $("#eu").css("color","000000");
   $("#eu").css("background-color","transparent");
   $("#en").attr("en","f");
-$("#en").css("border","0.1em solid #AFAFAF");
+  $("#en").css("color","000000");
   $("#en").css("background-color","transparent");
 
   $("#ee").attr("en","t");
-  $("#ee").css("border","0.1em solid #56CCF2");
-  $("#ee").css("background-color","ffffff");
 
+  $("#ee").css("background-color","EB4C8C");
+  $("#ee").css("color","ffffff");
 }
 else if(item.id=="eu" && $(item).attr("en")=="f"){
   $("#ee").attr("en","f");
-$("#ee").css("border","0.1em solid #AFAFAF");
+  $("#ee").css("color","000000");
   $("#ee").css("background-color","transparent");
   $("#en").attr("en","f");
-$("#en").css("border","0.1em solid #AFAFAF");
+  $("#en").css("color","000000");
   $("#en").css("background-color","transparent");
 
   $("#eu").attr("en","t");
-  $("#eu").css("border","0.1em solid #56CCF2");
-  $("#eu").css("background-color","ffffff");
 
+  $("#eu").css("background-color","EB4C8C");
+  $("#eu").css("color","ffffff");
 }
 else if(item.id=="en" && $(item).attr("en")=="f"){
   $("#eu").attr("en","f");
-$("#eu").css("border","0.1em solid #AFAFAF");
+  $("#eu").css("color","000000");
   $("#eu").css("background-color","transparent");
   $("#ee").attr("en","f");
-$("#ee").css("border","0.1em solid #AFAFAF");
+  $("#ee").css("color","000000");
   $("#ee").css("background-color","transparent");
 
   $("#en").attr("en","t");
-  $("#en").css("border","0.1em solid #56CCF2");
-  $("#en").css("background-color","ffffff");
 
+  $("#en").css("background-color","EB4C8C");
+  $("#en").css("color","ffffff");
 }
 
 if(item.id=="dd" && $(item).attr("en")=="f"){
   $("#de").attr("en","f");
-$("#de").css("border","0.1em solid #AFAFAF");
+  $("#de").css("color","000000");
   $("#de").css("background-color","transparent");
 
   $("#dd").attr("en","t");
-  $("#dd").css("border","0.1em solid #56CCF2");
-  $("#dd").css("background-color","ffffff");
 
+  $("#dd").css("background-color","EB4C8C");
+  $("#dd").css("color","ffffff");
 }
 else if(item.id=="de" && $(item).attr("en")=="f"){
   $("#dd").attr("en","f");
-$("#dd").css("border","0.1em solid #AFAFAF");
+  $("#dd").css("color","000000");
   $("#dd").css("background-color","transparent");
 
   $("#de").attr("en","t");
-  $("#de").css("border","0.1em solid #56CCF2");
-  $("#de").css("background-color","ffffff");
 
+  $("#de").css("background-color","EB4C8C");
+  $("#de").css("color","ffffff");
 }
 
 var g;

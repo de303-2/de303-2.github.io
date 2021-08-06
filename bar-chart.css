@@ -1,16 +1,20 @@
 body {
-  background-color: #F4F4F4 ;
+  background-color: #ffffff ;
   font-family: 'Montserrat', sans-serif;
+  width: 100%;
+  height: 100%;
   overflow: hidden; /* Hide scrollbars */
 }
 .title{
-  font-size: 10pt;
-  font-weight:800;
-  color:#555555;
+  font-size:28pt;
+  font-weight:900;
+  color:#4a1a3b;
   position:relative;
   top: 3vh;
-  left: 2vw;
+  left: 3.5vw;
+  line-height:18px;
 }
+
 
 .bar > rect {
 
@@ -28,9 +32,9 @@ button {
 }
 
 #chart {
-  margin-top: -260px;
+  margin-top: -270px;
   transform: translate(400px,-200px)rotate(90deg);
-  background-color:#F4F4F4;
+  background-color:#ffffff;
   margin-left: 9.2vw;
 }
 
@@ -64,13 +68,13 @@ color:#575757;
 }
 
 .sentence{
-  font-size: 11pt;
+  font-size: 12pt;
   margin-left: 27.4vw;
-  margin-top: 41vh;
+  margin-top: 37.5vh;
 }
 .sentence > span{
-    font-weight: 700;
-    color:#444444;
+    font-weight: 800;
+    color:#EB4C8C;
 }
 
 
@@ -132,7 +136,7 @@ select {
   cursor: pointer;
   display: inline-block;
 
-  width:160px;
+  width:120px;
   padding: 0.7em 0em;
 
   border: 0.1em solid #AFAFAF;
@@ -150,75 +154,77 @@ select {
 }
 #gf{
   position: absolute;
-  left:22vw;
-  top:17vh;
-  border: 0.1em solid #56CCF2;
-  background-color: #ffffff;
+  left:25vw;
+  top:27vh;
+
+  color:#ffffff;
+  background-color:#EB4C8C;
 }
 #gm{
   position: absolute;
-  left:22vw;
-  top:24vh;
+  left:25vw;
+  top:34vh;
 
 }
 #a18{
   position: absolute;
-  border: 0.1em solid #56CCF2;
-  background-color: #ffffff;
-  left:35vw;
-  top:10vh;
+  color:#ffffff;
+  background-color:#EB4C8C;
+  left:38vw;
+  top:13vh;
 }
 #a25{
   position: absolute;
 
-  left:35vw;
-  top:17vh;
+  left:38vw;
+  top:20vh;
 }
 #a45{
   position: absolute;
 
-  left:35vw;
-  top:24vh;
+  left:38vw;
+  top:27vh;
 }
 #a65{
   position: absolute;
 
-  left:35vw;
-  top:31vh;
+  left:38vw;
+  top:34vh;
 }
 #ee{
-  border: 0.1em solid #56CCF2;
-  background-color: #ffffff;
+  color:#ffffff;
+  background-color:#EB4C8C;
   position: absolute;
 
-  left:48vw;
-  top:13vh;
+  left:51vw;
+  top:20vh;
 }
 #eu{
 
   position: absolute;
-  left:48vw;
-  top:20vh;
+  left:51vw;
+  top:27vh;
 }
 #en{
 
   position: absolute;
-  left:48vw;
-  top:27vh;
+  left:51vw;
+  top:34vh;
 }
 #dd{
   position: absolute;
-  left:61vw;
-  top:17vh;
+  left:64vw;
+  top:27vh;
 
-  border: 0.1em solid #56CCF2;
-  background-color: #ffffff;
+  color:#ffffff;
+  background-color:#EB4C8C;
+
 }
 #de{
   position: absolute;
-  left:61vw;
-  top:24vh;
+  left:64vw;
+  top:34vh;
 }
-.me{position:absolute;top:90vh; left: 90vw;}
-.myname{font-weight: bold;font-size: 10.2pt;color: #525252;}
+.me{position:absolute;top:13.6vh; left: 4.1vw;}
+.myname{font-weight: bold;font-size: 10.2pt;color: #705668;}
 .myroll{margin-top: -14px;font-size:10.2pt;color:#525252;}

@@ -1,0 +1,68 @@
+<html>
+  <head>
+    <script>history.scrollRestoration = "manual"</script>
+    <title>D3 Bar Chart</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="D3 Bar Chart" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.js"
+      integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+      crossorigin="anonymous"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="./bar-chart.css" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="./bar-chart.js" defer></script>
+  </head>
+  <body>
+    <p class = "title">
+      How people<br></br> like you spend <br></br>their time
+    </p>
+
+<a en = "f" myvalue = "m" id = "gm" class="bn1" onclick="updateData(this)">Male</a>
+<a en = "t" myvalue = "f" id = "gf" class="bn1" onclick="updateData(this)">Female</a>
+
+<a en = "t" myvalue = "18" id = "a18" class="bn1" onclick="updateData(this)">18 - 24</a>
+<a en = "f" myvalue = "25" id = "a25" class="bn1" onclick="updateData(this)">25 - 44</a>
+<a en = "f" myvalue = "45" id = "a45" class="bn1" onclick="updateData(this)">45 - 64</a>
+<a en = "f" myvalue = "65" id = "a65" class="bn1" onclick="updateData(this)">65 or more</a>
+
+<a en = "t" myvalue = "e" id = "ee" class="bn1" onclick="updateData(this)">Employed</a>
+<a en = "f" myvalue = "u" id = "eu" class="bn1" onclick="updateData(this)">Unemployed</a>
+<a en = "f" myvalue = "n" id = "en" class="bn1" onclick="updateData(this)">Not looking</a>
+
+<a en = "f" myvalue = "e" id = "de" class="bn1" onclick="updateData(this)">Weekend</a>
+<a en = "t" myvalue = "d" id = "dd" class="bn1" onclick="updateData(this)">Weekday</a>
+
+<p class = "sentence">I am a <span id = "genders">female</span> aged <span id = "ages">18-24</span>, <span id = "emps">employed</span>. Show me the hours spent on a <span id = "days">weekday</span></p>
+
+
+
+
+
+
+
+
+
+
+    <svg id="chart"></svg>
+    <div>
+      <!-- Render a new version of the chart when this is pressed. -->
+
+    </div>
+    <div class = "me">
+  <p class ="myname">Lakshya Ranwan</p>
+
+    </div>
+  </body>
+</html>
